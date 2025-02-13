@@ -348,4 +348,4 @@ Estas mejoras contribuyen a una experiencia más inclusiva y accesible para todo
 
 # Fase 6: Verificación mediante test externos
 
-<img src="img/comprobacionAA.png">
+<img src="img/comprobacionAA.PNG">
