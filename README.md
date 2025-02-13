@@ -307,35 +307,41 @@ Aplicar estas prácticas no solo **cumple con la normativa**, sino que **mejora 
 - Implementar accesibilidad desde el diseño inicial.
 - Realizar pruebas con usuarios con discapacidades para asegurar una experiencia óptima.
 
-Este informe debe servir como base para mejorar la accesibilidad de la página web y cumplir con los estándares WCAG 2.1.
 # Fase 5: Implementación para alcanzar el nivel deseado
 
 ## 1. Uso de HTML semántico
 **Antes:** El sitio utilizaba etiquetas genéricas (`<div>`, `<span>`) para estructurar el contenido, dificultando su comprensión por tecnologías asistivas.
+
 **Después:** Se han implementado etiquetas semánticas (`<header>`, `<nav>`, `<main>`, `<section>`, `<footer>`), mejorando la navegación y comprensión del contenido.
 
 ## 2. Mejora en el contraste de colores
 **Antes:** Algunos textos presentaban un contraste insuficiente con el fondo, dificultando la lectura.
+
 **Después:** Se ajustaron colores de texto y fondo para cumplir con las pautas WCAG, mejorando la legibilidad.
 
 ## 3. Textos alternativos en imágenes
 **Antes:** Las imágenes carecían de atributos `alt`, impidiendo a los lectores de pantalla describir el contenido visual.
+
 **Después:** Se añadieron descripciones significativas en los atributos `alt` de las imágenes, proporcionando contexto a los usuarios de tecnologías asistivas.
 
 ## 4. Navegación por teclado
 **Antes:** La navegación no era completamente accesible mediante el teclado.
+
 **Después:** Se mejoró la estructura y el enfoque de los elementos interactivos, permitiendo una navegación fluida y lógica por teclado.
 
 ## 5. Etiquetas de formulario y controles asociados
 **Antes:** Los formularios carecían de etiquetas correctamente asociadas a sus controles.
+
 **Después:** Se asociaron correctamente las etiquetas `<label>` con sus respectivos controles de formulario mediante el atributo `for`.
 
 ## 6. Uso de ARIA landmarks
 **Antes:** No se utilizaban landmarks de ARIA, dificultando la navegación para usuarios de tecnologías asistivas.
+
 **Después:** Se implementaron roles de ARIA (`role="navigation"`, `role="main"`) para definir áreas importantes de la página.
 
 ## 7. Enlaces descriptivos
 **Antes:** Algunos enlaces utilizaban textos genéricos como "clic aquí", sin información contextual suficiente.
+
 **Después:** Se actualizaron los textos de los enlaces para que sean más descriptivos, indicando claramente su destino o acción.
 
 Estas mejoras contribuyen a una experiencia más inclusiva y accesible para todos los usuarios, cumpliendo con las pautas de accesibilidad web y mejorando la usabilidad general del sitio.
