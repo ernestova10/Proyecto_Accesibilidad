@@ -346,4 +346,6 @@ Aplicar estas prácticas no solo **cumple con la normativa**, sino que **mejora 
 
 Estas mejoras contribuyen a una experiencia más inclusiva y accesible para todos los usuarios, cumpliendo con las pautas de accesibilidad web y mejorando la usabilidad general del sitio.
 
+# Fase 6: Verificación mediante test externos
+
 
