@@ -369,8 +369,11 @@ Se realizó un análisis de accesibilidad conforme a las pautas WCAG 2.1 con niv
      - **Robusto:** 0 advertencias.
 
 
+#### Capturas manejo por teclado
 
 <img src="img/teclado1.png">
 <img src="img/teclado2.png">
 <img src="img/teclado3.png">
 <img src="img/teclado4.png">
+
+
