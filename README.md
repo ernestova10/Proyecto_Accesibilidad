@@ -369,11 +369,54 @@ Se realizó un análisis de accesibilidad conforme a las pautas WCAG 2.1 con niv
      - **Robusto:** 0 advertencias.
 
 
-#### Capturas manejo por teclado
+## Capturas manejo por teclado
 
 <img src="img/teclado1.png">
 <img src="img/teclado2.png">
 <img src="img/teclado3.png">
 <img src="img/teclado4.png">
+
+# Fase 7: Verificación multiplataforma
+## Chrome
+![image](https://github.com/user-attachments/assets/3cd8fc35-1ef2-4984-a993-5a5317099ac0)
+
+## Firefox 
+![image](https://github.com/user-attachments/assets/348211ca-503e-497a-b74a-a9b21b2a8a93)
+
+## Edge
+![image](https://github.com/user-attachments/assets/97cc0e00-53b2-443f-b08b-e130c27ae058)
+
+## Dispositivo móvil
+![image](https://github.com/user-attachments/assets/1b0a5592-0d7f-4c5b-8bc0-335b038a87f8)
+
+### Time to First Byte (TTFB)
+- **0.711s** → Tiempo que tarda el servidor en responder con el primer byte de datos.
+
+### Start Render
+- **1.400s** → Momento en el que la primera parte visible de la página comienza a renderizarse.
+
+### First Contentful Paint (FCP)
+- **1.362s** → Tiempo en el que los primeros elementos visuales (texto o imágenes) aparecen en la pantalla.
+
+### Speed Index
+- **1.464s** → Representa la rapidez con la que el contenido visible se carga y se hace utilizable para el usuario.
+
+### Largest Contentful Paint (LCP)
+- **1.561s** → Tiempo en el que el contenido principal (elemento más grande y visible) terminó de cargarse.
+
+### Cumulative Layout Shift (CLS)
+- **0** → No hubo cambios inesperados en el diseño durante la carga.
+
+### Total Blocking Time (TBT)
+- **0.000s** → No hubo bloqueos significativos del hilo principal, lo que indica una rápida respuesta de la página.
+
+### Page Weight
+- **2,145 KB** → Tamaño total de los recursos descargados para cargar la página.
+
+---
+
+### Conclusión
+Los tiempos de carga son rápidos, sin bloqueos ni cambios inesperados en el diseño, lo que indica un rendimiento óptimo en términos de experiencia de usuario.
+
 
 
