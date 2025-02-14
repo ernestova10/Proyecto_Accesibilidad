@@ -418,5 +418,29 @@ Se realizó un análisis de accesibilidad conforme a las pautas WCAG 2.1 con niv
 ### Conclusión
 Los tiempos de carga son rápidos, sin bloqueos ni cambios inesperados en el diseño, lo que indica un rendimiento óptimo en términos de experiencia de usuario.
 
+# Fase 8: Análisis y estrategias para mejorar visibilidad en buscadores
+
+![image](https://github.com/user-attachments/assets/59a3b409-f971-4708-9184-ed4bd09184c7)
+
+### SEO On-page
+- **Uso de etiquetas semánticas de HTML5:** Se han incorporado `<header>`, `<main>`, `<footer>`, `<article>` para una mejor estructuración del contenido y mejorar la accesibilidad y el SEO.
+- **Inclusión de un `<title>` descriptivo:** Se ha añadido `<title>Gates N Fences</title>` para ofrecer información relevante en la pestaña del navegador y en los motores de búsqueda.
+- **Metaetiquetas esenciales:**
+  - `<meta charset="UTF-8">`: Garantiza la correcta codificación de caracteres para evitar problemas de visualización.
+  - `<meta name="viewport" content="width=device-width, initial-scale=1.0">`: Mejora la experiencia de usuario en dispositivos móviles asegurando un diseño responsivo.
+- **Uso adecuado de encabezados:** Se ha estructurado el contenido con `<h1>` para el título principal y `<h2>` y `<h3>` para subsecciones, lo que facilita la comprensión del contenido tanto para usuarios como para motores de búsqueda.
+
+### SEO Técnico
+- **Archivo robots.txt:** Se ha implementado un archivo `robots.txt` que permite gestionar el acceso de los motores de búsqueda al sitio web.
+
+### SEO Off-page
+- **Contenido atractivo:** Se ha incluido una sección de "Sobre Nosotros" que brinda información detallada sobre la empresa, aumentando la posibilidad de generar backlinks desde otras plataformas.
+- **Contacto accesible:** Se proporciona una dirección de correo electrónico `<a href="mailto:LAOrnamental@aol.com">` para mejorar la comunicación con los clientes y fortalecer la confianza en el sitio.
+
+### Evaluación del SEO
+- **Diseño optimizado:** Se han utilizado imágenes con `alt` adecuados, como en `<img src="img/porton.jpg" alt="Portón de entrada moderno">`, lo que mejora la accesibilidad y permite que los motores de búsqueda indexen correctamente el contenido visual.
+
+### Conclusión
+Se han aplicado prácticas fundamentales de SEO tanto a nivel on-page como técnico y off-page, lo que mejora la indexación y visibilidad en los motores de búsqueda. La estructura optimizada, etiquetas meta, uso de encabezados y contenido relevante contribuyen a una mejor experiencia del usuario y un posicionamiento más efectivo en buscadores.
 
 
