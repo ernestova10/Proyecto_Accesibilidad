@@ -349,6 +349,27 @@ Estas mejoras contribuyen a una experiencia más inclusiva y accesible para todo
 # Fase 6: Verificación mediante test externos
 
 <img src="img/comprobacionAA.PNG">
+
+## Informe de Accesibilidad
+
+### Resumen
+Se realizó un análisis de accesibilidad conforme a las pautas WCAG 2.1 con nivel de análisis AA sobre el recurso: [https://ernestova10.github.io/Proyecto_Accesibilidad/](https://ernestova10.github.io/Proyecto_Accesibilidad/). El análisis fue realizado el día 13/02/2025 a las 14:59.
+
+### Resultados
+
+#### Problemas detectados de forma automática
+   - No se encontraron problemas automáticos en el análisis.
+   - Se recomienda revisar manualmente las advertencias y los puntos no verificados para garantizar un nivel de accesibilidad adecuado.
+
+#### Advertencias
+   - Se detectaron **8 advertencias** en 3 criterios de éxito que requieren revisión manual:
+     - **Perceptible:** 2 advertencias.
+     - **Operable:** 6 advertencias.
+     - **Comprensible:** 0 advertencias.
+     - **Robusto:** 0 advertencias.
+
+
+
 <img src="img/teclado1.png">
 <img src="img/teclado2.png">
 <img src="img/teclado3.png">
